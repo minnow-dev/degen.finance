@@ -1,7 +1,7 @@
 {
-  "name": "@minnow-dev/arNXMpeg",
+  "name": "@minnow-dev/degen.finance",
   "version": "0.0.1",
-  "description": "arNXM - wNXM arbitrage bot ",
+  "description":"degen.finance contract",
   "main": "dist/index.js",
   "scripts": {
     "compile": "npx hardhat compile",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minnow-dev/arNXMpeg.git"
+    "url": "git+https://github.com/minnow-dev/degen.finance.git"
   },
   "keywords": [
     "solidity",
@@ -23,9 +23,9 @@
   "author": "leekt<leekt216@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/minnow-dev/arNXMpeg/issues"
+    "url": "https://github.com/minnow-dev/degen.finance/issues"
   },
-  "homepage": "https://github.com/minnow-dev/minnow#readme",
+  "homepage": "https://github.com/minnow-dev/degen.finance#readme",
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.1",
     "ethers": "^5.0.19",
